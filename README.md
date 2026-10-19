@@ -22,6 +22,7 @@
 
 ### 🚀 Projects
 - [**Claude Prompts Page**](https://a7aadly1987-hub.github.io/claude/): my collection of practical AI prompts
+- [**E-commerce Profit Calculator**](https://github.com/a7aadly1987-hub/ecommerce-profit-calculator): Python tool that calculates profit, margin, ROI and break-even price for Amazon, Noon and Jumia products
 
 ### 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7aadly1987@gmail.com)
