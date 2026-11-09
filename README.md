@@ -20,7 +20,7 @@ and I run their marketplace accounts and ads on **Amazon, Noon and Jumia**.
 
 ## 🚀 What I do
 
-| | |
+| Service | What you get |
 |---|---|
 | 📱 **Mobile apps** | Android and iPhone store apps with React Native / Expo, connected to WooCommerce, Arabic RTL + English |
 | 🛒 **Online stores** | WordPress / WooCommerce stores: design, checkout, shipping rules, offers and banners |
