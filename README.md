@@ -58,6 +58,7 @@ and I run their marketplace accounts and ads on **Amazon, Noon and Jumia**.
 
 ## 🛠️ Open-source projects
 
+- 🎙️ [**arabic-voice-ready**](https://github.com/a7aadly1987-hub/arabic-voice-ready): Agent Skill + zero-dependency CLI that makes Arabic (Egyptian / MSA) voiceovers sound right in ElevenLabs & TTS: numbers, prices, dates, loanwords
 - [**E-commerce Profit Calculator**](https://github.com/a7aadly1987-hub/ecommerce-profit-calculator): Python tool for profit, margin, ROI and break-even price on Amazon, Noon and Jumia
 - [**Claude Prompts Page**](https://a7aadly1987-hub.github.io/claude/): my collection of practical AI prompts
 
