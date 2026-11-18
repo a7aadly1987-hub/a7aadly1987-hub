@@ -9,6 +9,7 @@ and I run their marketplace accounts and ads on **Amazon, Noon and Jumia**.
 
 📍 Cairo, Egypt · 🏢 Founder of **DIMA Digital Studio** · 💬 Open for freelance projects
 
+[![Website](https://img.shields.io/badge/Website-dimadstudio.com-7B5CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://dimadstudio.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-adly-hendawy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/ahmedhendawydev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201202028373)
@@ -53,6 +54,8 @@ and I run their marketplace accounts and ads on **Amazon, Noon and Jumia**.
 - **Travel Neck Pillow Ad**: AI-generated product video for Reels and TikTok
 - **Memory Foam Pillow Explainer**: 2D motion graphics product explainer
 - **Sawtaha Amana (صوتها أمانة)**: 5-minute 2D animated awareness film about child protection
+
+👉 Studio website with all apps and work: **[dimadstudio.com](https://dimadstudio.com/)**
 
 👉 Full portfolio with case studies: **[pinterest.com/ahmedhendawydev](https://www.pinterest.com/ahmedhendawydev/)**
 
